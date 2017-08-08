@@ -7,7 +7,7 @@
     "react-dom": "^15.6.1",
     "react-scripts": "1.0.10"
   },
-  "homepage" : "http://myname.github.io/myapp",
+  "homepage" : "http://tl228.github.io/package.json",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
